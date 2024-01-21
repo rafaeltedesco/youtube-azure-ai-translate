@@ -1,0 +1,7 @@
+### Get Examples
+POST http://localhost:3000?from=pt-br&to=en
+Content-Type: application/json
+
+{
+  "text": "cachorro"
+}
