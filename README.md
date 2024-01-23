@@ -36,7 +36,7 @@ Now, execute the following command in your terminal:
   docker compose up -d
 ```
 
-If you haven't changed the `PORgitT` variable in the .env file, you can now access the application on `PORT 3000`.
+If you haven't changed the `PORT` variable in the .env file, you can now access the application on `PORT 3000`.
 
 One last point: you cold start testing the API using the _aiTranslate.http_ file, located inside the [httpClient folder](./httpClient/aiTranslate.http)
 
